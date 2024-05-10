@@ -1,0 +1,112 @@
+body {
+    background:azure;
+}
+
+.contenedor-encabezado {
+    display: flex;
+    background: white;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+    background-color: white;
+}
+
+#encabezado-imagen-ufro {
+    grid-area: imagenufro;
+    width: 100px;
+}
+
+#encabezado-imagen-dci {
+    grid-area: imagendci;
+    width: 125px;
+}
+
+.contenedor-cuerpo {
+    display: grid;
+    grid-template:
+        "datosalumno sobremi sobremi sobremi"
+        "datosalumno misproyectos misproyectos misproyectos"
+        /1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.contenedor-datos-alumno {
+    grid-area: datosalumno;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    background: cadetblue;
+}
+
+#perfil-imagen {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    width: 30%;
+}
+
+#nombre {
+    text-align: center;
+}
+
+#instagram {
+    display: flex;
+    margin-top: -20px;
+}
+
+#icono-instagram {
+    margin-top: 20px;
+    padding-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.contenedor-sobre-mi {
+        grid-area: sobremi;
+        padding: 10px;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+#parrafo-sobre-mi {
+    text-align: justify;
+}
+
+.contenedor-mis-proyectos {
+    grid-area: misproyectos;
+    padding: 10px;
+}
+
+.contenedor-cuerpo-mis-proyectos {
+    display: flex;
+}
+
+.proyecto {
+    display: block;
+    border-radius: 15px;
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    background: goldenrod;
+}
+
+#mis-proyectos-imagen-1 {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+#mis-proyectos-imagen-2 {
+    display: block;
+    margin: auto;
+    width: 81%;
+}
+

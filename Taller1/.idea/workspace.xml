@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5417229c-47e9-4ff5-9aea-f282e2d60290" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayListToArray/src/main/java/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListToArray/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListToArray/src/main/java/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arreglos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia1/src/main/java/Clase1Estructural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia2/src/main/java/LlenadoMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia2/src/main/java/LlenadoMatricesJavier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/EspecialidadVeterinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/SexoAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/TipoAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/TipoVacuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/Vacuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/Veterinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia3/src/main/java/Voluntario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia4/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia5/src/main/java/LOL/Casilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ayudantia5/src/main/java/LOL/ConjuntoHabilidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 13/Clase 13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/Principal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/ResolucionRutProfe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/rut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/target/classes/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/src/main/java/Cancion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18/target/classes/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase19/src/main/java/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase19/src/main/java/Principal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase20/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodewarsMorseCode/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDCI/src/main/java/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDCI/src/main/java/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDCI/src/main/resources/Codigo QR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDCI/src/main/resources/Fondo DCI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgaAvanzada1/src/main/java/UsoExcepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrograAvanzada1.1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrograAvanzada1.1/src/main/java/MainProfe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrograAvanzada1.2/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/src/main/java/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaGUI/src/main/java/GUI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/MainCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/MainServidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket2/src/main/java/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerET1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerET1/formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerET1/tabla.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/main/java/Boleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/main/java/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/test/java/BoletaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/test/java/ProductoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/TallerPOO4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/TallerPOO4v2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Carta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/JuegoCarta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Mano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Mazo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Mostrable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/test/java/CartaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/test/java/ManoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/test/java/MazoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5.2/src/main/java/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5.2/src/main/java/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5.2/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/src/main/java/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/src/main/java/Galleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/src/main/java/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/src/main/java/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/src/main/java/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO5/src/main/java/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tarea1EspTec/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tarea1EspTec/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tarea3ProyectoAplicacion/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tarea3ProyectoAplicacion/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaAyudanteJS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaAyudanteJS/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaAyudanteJS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaAyudanteJS/CombatePorTurnos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Animales/Acuatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Animales/Aereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Animales/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Animales/Terrestre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/GUIs/GUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/GUIs/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Interface/Comprable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Interface/Mostrable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Personas/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Personas/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Personas/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Personas/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Productos/Accesorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Productos/Alimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Productos/Medicamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Productos/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Tienda/TiendaMascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Transaccion/Boleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Transaccion/Pago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/test/java/Animales/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/test/java/Transaccion/BoletaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/target/test-classes/Transaccion/BoletaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/Modelo/Juego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/Modelo/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/Modelo/Tablero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manual-basico-html/src/main/java/hola-mundo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoAplicacion/src/main/java/ufro/dci/proyectoAplicacion/Controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoAplicacion/src/main/resources/templates/Hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arreglos/out/production/Arreglos/Arreglos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arreglos/out/production/Arreglos/NumeroAleatorio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C15Funcional/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase 14/src/main/java/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 14/src/main/java/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase 15/src/main/java/Principal4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 15/src/main/java/Principal4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase16/src/main/java/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fruteria/src/main/java/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fruteria/src/main/java/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fruteria/src/main/java/Fruteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fruteria/src/main/java/Fruteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fruteria/src/main/java/PruebaMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fruteria/src/main/java/PruebaMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fruteria/target/classes/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fruteria/target/classes/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fruteria/target/classes/Fruteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fruteria/target/classes/Fruteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fruteria/target/classes/PruebaMetodos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fruteria/target/classes/PruebaMetodos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.form" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerPOO3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerPOO3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerPOO3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TallerPOO3/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Nn6bU4VHTPiLLCGW3umkmHsK4l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TallerET1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5417229c-47e9-4ff5-9aea-f282e2d60290" name="Changes" comment="" />
+      <created>1680287572367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680287572367</updated>
+      <workItem from="1680287573717" duration="786000" />
+      <workItem from="1680647686521" duration="30000" />
+      <workItem from="1681844227340" duration="4000" />
+      <workItem from="1683058553771" duration="5000" />
+      <workItem from="1683312644526" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

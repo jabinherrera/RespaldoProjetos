@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bc6165a-56ed-4cd5-907e-d5d03627ca4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arreglos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 13/Clase 13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/Principal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/ResolucionRutProfe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/java/rut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/target/classes/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/src/main/java/Cancion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18.1/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase18/target/classes/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase19/src/main/java/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase19/src/main/java/Principal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase20/src/main/java/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/main/java/Boleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/main/java/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/test/java/BoletaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4.2/src/test/java/ProductoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/TallerPOO4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/TallerPOO4v2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Carta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/JuegoCarta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Mano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Mazo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/main/java/Mostrable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/test/java/CartaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/test/java/ManoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPOO4/src/test/java/MazoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Accesorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Acuatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Aereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Alimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Boleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Medicamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Mostrable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Pago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Pruebas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Terrestre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/TiendaMascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TiendaMascota/src/main/java/Vendible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C15Funcional/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase 14/src/main/java/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 14/src/main/java/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase 15/src/main/java/Principal4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 15/src/main/java/Principal4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fruteria/src/main/java/Fruteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fruteria/src/main/java/Fruteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/out/production/GUI/com/codeBind/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.form" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/src/com/codeBind/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerPOO3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerPOO3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerPOO3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TallerPOO3/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2AMAPngGyHgZ57ZzKo9MTR6hlpu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bc6165a-56ed-4cd5-907e-d5d03627ca4a" name="Changes" comment="" />
+      <created>1654809060090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654809060090</updated>
+      <workItem from="1654809061460" duration="148000" />
+      <workItem from="1654882804885" duration="8000" />
+      <workItem from="1655308876912" duration="1356000" />
+      <workItem from="1656187816630" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

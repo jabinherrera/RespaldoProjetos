@@ -1,0 +1,62 @@
+body {
+    background-color: #64abb2;
+
+}
+
+#banner{
+    display: flex;
+    width: 100%;
+}
+
+#imagen-banner{
+    width: 100%;
+}
+
+.pagina {
+    display: flex;
+}
+
+.publicacion{
+    flex-wrap: wrap;
+    padding: 20px;
+    border-radius: 20px;
+    width: 95%;
+    background: #8ee5ec;
+    margin-top: 10px;
+    font-family: Arial;
+}
+
+.titulo-publicacion {
+    text-align: center;
+}
+
+.desc-publicacion {
+    text-align: center;
+}
+
+.imagen-publicacion {
+    width: 80%;
+    border-radius: 20px;
+    margin: 0px 0px 0px 10%;
+}
+
+.contenedor-formulario {
+    flex-wrap: wrap;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.formulario {
+    width: auto;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: -20px;
+    background: bisque;
+}
+
+input {
+    display: flex;
+    width: 100%;
+}

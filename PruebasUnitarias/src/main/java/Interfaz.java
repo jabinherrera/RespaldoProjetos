@@ -1,0 +1,4 @@
+interface Mostrable {
+    void mostrarCartas();
+}
+

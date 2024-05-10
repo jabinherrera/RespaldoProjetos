@@ -1,0 +1,37 @@
+body {
+    background: url('Fondo DCI.png');
+}
+
+#formulario {
+    margin: 20px auto;
+    width: 600px;
+    padding: 0 20px 20px 20px;
+    border-radius: 20px;
+    background: rgb(54, 57, 63);
+    color: white;
+}
+
+#contenedor-login {
+    margin: 20px auto;
+    width: 600px;
+    padding: 0 20px 20px 20px;
+    border-radius: 20px;
+    background: rgb(54, 57, 63);
+    color: white;
+}
+
+input{
+    background-color: rgb(36, 38, 41);
+    border: none;
+    border-radius: 5px;
+}
+
+
+imput {
+    background-color: rgb(88, 101, 242);
+}
+
+button {
+    background-color: rgb(88, 101, 242);
+}
+

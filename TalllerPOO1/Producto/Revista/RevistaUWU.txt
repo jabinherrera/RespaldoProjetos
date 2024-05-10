@@ -1,0 +1,4 @@
+ISBN: 1423
+Autor: Jabin
+Precio: 1500
+Tematica: Informatica

@@ -1,0 +1,4 @@
+ISBN: 1567
+Autor: Jabin
+Precio: 2500
+Area de aplicacion: Computacion

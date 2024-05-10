@@ -1,0 +1,100 @@
+id;origen;destino;fecha_vuelo;hora_vuelo;estado_vuelo
+FL1001;México D.F., México ;Madrid, España ;8/3/2018;9:00;Activo
+FL1002;Sao Paulo, Brasil ;Dubái, Emiratos Árabes Unidos ;21/10/2024;6:00;Activo
+FL1003;Toronto, Canadá ;Madrid, España ;4/9/2018;21:00;Activo
+FL1004;Estambul, Turquía ;Tokio, Japón ;27/9/2018;24:00;Activo
+FL1005;Ámsterdam, Países Bajos ;Chicago, Estados Unidos ;26/9/2020;14:00;Activo
+FL1006;Chicago, Estados Unidos ;Shanghái, China ;10/8/2018;3:00;Cancelado
+FL1007;Shanghái, China ;Chicago, Estados Unidos ;12/7/2024;9:00;Activo
+FL1008;México D.F., México ;Sao Paulo, Brasil ;7/9/2023;4:00;Activo
+FL1009;Los Ángeles, Estados Unidos ;Singapur ;9/5/2018;13:00;Activo
+FL1010;Sao Paulo, Brasil ;Atlanta, Estados Unidos ;9/12/2018;5:00;Activo
+FL1011;Shanghái, China ;Londres, Reino Unido ;1/5/2023;11:00;Activo
+FL1012;Londres, Reino Unido ;Pekín, China ;24/12/2021;1:00;Activo
+FL1013;Pekín, China ;Madrid, España ;4/9/2022;19:00;Activo
+FL1014;Tokio, Japón ;Atlanta, Estados Unidos ;7/4/2019;23:00;Activo
+FL1015;Seúl, Corea del Sur ;Los Ángeles, Estados Unidos ;9/9/2021;13:00;Cancelado
+FL1016;Singapur ;Los Ángeles, Estados Unidos ;27/4/2021;3:00;Activo
+FL1017;Toronto, Canadá ;París, Francia ;27/4/2020;10:00;Activo
+FL1018;Tokio, Japón ;Estambul, Turquía ;20/9/2019;14:00;Activo
+FL1019;Madrid, España ;Los Ángeles, Estados Unidos ;3/4/2021;9:00;Cancelado
+FL1020;Atlanta, Estados Unidos ;Roma, Italia ;9/12/2024;13:00;Activo
+FL1021;Madrid, España ;Hong Kong ;2/9/2019;5:00;Activo
+FL1022;París, Francia ;México D.F., México ;21/7/2024;18:00;Activo
+FL1023;Seúl, Corea del Sur ;Estambul, Turquía ;24/6/2020;2:00;Activo
+FL1024;Toronto, Canadá ;Pekín, China ;10/8/2018;13:00;Activo
+FL1025;México D.F., México ;Atlanta, Estados Unidos ;9/12/2022;22:00;Activo
+FL1026;Singapur ;Atlanta, Estados Unidos ;1/9/2021;12:00;Activo
+FL1027;Estambul, Turquía ;Shanghái;11/10/2021;9:00;Activo
+FL1028;Hong Kong ;Singapur ;23/1/2023;17:00;Activo
+FL1029;México D.F., México ;Singapur ;16/8/2021;4:00;Activo
+FL1030;Ámsterdam, Países Bajos ;Shanghái, China ;7/4/2020;21:00;Activo
+FL1031;París, Francia ;Ámsterdam, Países Bajos ;12/9/2023;21:00;Activo
+FL1032;Estambul, Turquía ;Shanghái;18/8/2019;17:00;Activo
+FL1033;Shanghái, China ;Pekín, China ;3/6/2023;15:00;Activo
+FL1034;Ámsterdam, Países Bajos ;Singapur ;9/3/2018;15:00;Activo
+FL1035;Singapur ;Roma, Italia ;1/4/2024;1:00;Activo
+FL1036;Shanghái, China ;París, Francia ;8/8/2023;6:00;Activo
+FL1037;Shanghái;París, Francia ;27/11/2024;3:00;Cancelado
+FL1038;Madrid, España ;Dubái, Emiratos Árabes Unidos ;5/7/2022;4:00;Activo
+FL1039;Pekín, China ;Atlanta, Estados Unidos ;4/1/2019;10:00;Activo
+FL1040;Los Ángeles, Estados Unidos ;Chicago, Estados Unidos ;17/10/2019;23:00;Activo
+FL1041;Atlanta, Estados Unidos ;Londres, Reino Unido ;3/11/2020;23:00;Activo
+FL1042;Ámsterdam, Países Bajos ;Toronto, Canadá ;22/5/2018;13:00;Activo
+FL1043;Roma, Italia ;Hong Kong ;19/2/2018;23:00;Activo
+FL1044;Pekín, China ;Tokio, Japón ;13/2/2018;13:00;Cancelado
+FL1045;Toronto, Canadá ;Sao Paulo, Brasil ;4/1/2023;22:00;Activo
+FL1046;Toronto, Canadá ;México D.F., México ;5/10/2022;16:00;Activo
+FL1047;Tokio, Japón ;Londres, Reino Unido ;15/6/2022;20:00;Activo
+FL1048;Pekín, China ;México D.F., México ;23/1/2020;8:00;Activo
+FL1049;Shanghái, China ;Sao Paulo, Brasil ;8/9/2018;17:00;Activo
+FL1050;Pekín, China ;Toronto, Canadá ;29/11/2024;21:00;Activo
+FL1051;Hong Kong ;Estambul, Turquía ;19/2/2021;8:00;Activo
+FL1052;Pekín, China ;Londres, Reino Unido ;14/3/2022;16:00;Cancelado
+FL1053;Dubái, Emiratos Árabes Unidos ;Singapur ;30/1/2018;18:00;Activo
+FL1054;Atlanta, Estados Unidos ;Sao Paulo, Brasil ;8/12/2024;19:00;Activo
+FL1055;Roma, Italia ;Seúl, Corea del Sur ;14/3/2021;13:00;Activo
+FL1056;Roma, Italia ;Tokio, Japón ;4/7/2020;8:00;Activo
+FL1057;Ámsterdam, Países Bajos ;Seúl, Corea del Sur ;2/6/2022;12:00;Activo
+FL1058;Shanghái;Toronto, Canadá ;18/6/2019;12:00;Activo
+FL1059;Pekín, China ;Tokio, Japón ;21/8/2020;4:00;Activo
+FL1060;Chicago, Estados Unidos ;México D.F., México ;3/7/2021;11:00;Cancelado
+FL1061;Los Ángeles, Estados Unidos ;Seúl, Corea del Sur ;27/7/2021;8:00;Activo
+FL1062;Toronto, Canadá ;Sao Paulo, Brasil ;11/5/2020;23:00;Activo
+FL1063;Toronto, Canadá ;Shanghái;17/10/2023;11:00;Activo
+FL1064;Pekín, China ;Shanghái;12/12/2018;3:00;Activo
+FL1065;Tokio, Japón ;Singapur ;30/6/2018;12:00;Activo
+FL1066;Atlanta, Estados Unidos ;Sao Paulo, Brasil ;8/6/2020;13:00;Activo
+FL1067;Atlanta, Estados Unidos ;Los Ángeles, Estados Unidos ;4/11/2024;18:00;Activo
+FL1068;Hong Kong ;Estambul, Turquía ;10/3/2020;4:00;Activo
+FL1069;Hong Kong ;Los Ángeles, Estados Unidos ;1/5/2024;21:00;Activo
+FL1070;Singapur ;Londres, Reino Unido ;2/9/2019;2:00;Activo
+FL1071;Tokio, Japón ;Seúl, Corea del Sur ;23/3/2018;4:00;Activo
+FL1072;Seúl, Corea del Sur ;Tokio, Japón ;29/4/2022;16:00;Activo
+FL1073;Atlanta, Estados Unidos ;México D.F., México ;24/6/2019;6:00;Activo
+FL1074;Los Ángeles, Estados Unidos ;Estambul, Turquía ;12/2/2021;10:00;Activo
+FL1075;Pekín, China ;Pekín, China ;28/7/2021;14:00;Activo
+FL1076;Seúl, Corea del Sur ;Tokio, Japón ;14/2/2021;8:00;Activo
+FL1077;Los Ángeles, Estados Unidos ;Roma, Italia ;3/6/2021;22:00;Activo
+FL1078;Tokio, Japón ;Roma, Italia ;22/9/2021;4:00;Activo
+FL1079;París, Francia ;Singapur ;26/9/2024;6:00;Activo
+FL1080;Pekín, China ;Londres, Reino Unido ;17/12/2023;10:00;Cancelado
+FL1081;Los Ángeles, Estados Unidos ;Dubái, Emiratos Árabes Unidos ;2/3/2020;6:00;Activo
+FL1082;Dubái, Emiratos Árabes Unidos ;Chicago, Estados Unidos ;27/12/2019;6:00;Activo
+FL1083;Pekín, China ;Seúl, Corea del Sur ;18/6/2024;14:00;Activo
+FL1084;Ámsterdam, Países Bajos ;Atlanta, Estados Unidos ;24/3/2021;21:00;Activo
+FL1085;Dubái, Emiratos Árabes Unidos ;Singapur ;22/2/2024;16:00;Cancelado
+FL1086;Hong Kong ;Los Ángeles, Estados Unidos ;27/3/2024;24:00;Activo
+FL1087;Ámsterdam, Países Bajos ;Shanghái;5/8/2021;13:00;Activo
+FL1088;Singapur ;México D.F., México ;11/11/2018;19:00;Activo
+FL1089;Los Ángeles, Estados Unidos ;Ámsterdam, Países Bajos ;23/4/2023;5:00;Activo
+FL1090;Ámsterdam, Países Bajos ;Shanghái;27/11/2018;12:00;Activo
+FL1091;París, Francia ;Shanghái;16/9/2024;24:00;Activo
+FL1092;Madrid, España ;París, Francia ;3/10/2020;3:00;Activo
+FL1093;Hong Kong ;Sao Paulo, Brasil ;9/4/2020;15:00;Activo
+FL1094;Seúl, Corea del Sur ;Shanghái;3/7/2018;5:00;Cancelado
+FL1095;Pekín, China ;París, Francia ;22/7/2022;1:00;Activo
+FL1096;Shanghái, China ;Singapur ;24/3/2022;20:00;Activo
+FL1097;Ámsterdam, Países Bajos ;Hong Kong ;16/2/2019;20:00;Activo
+FL1098;Shanghái;Hong Kong ;17/12/2022;13:00;Activo
+FL1099;Atlanta, Estados Unidos ;Pekín, China ;10/3/2023;15:00;Activo

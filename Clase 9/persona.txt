@@ -1,0 +1,5 @@
+Matias;12
+Joaquin;30
+Sebastian;20
+Priscila;20
+Axel;22

@@ -1,0 +1,4 @@
+ISBN: 1222
+Autor: Jabin
+Precio: 20000
+Edad Minima: 18
